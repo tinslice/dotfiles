@@ -56,8 +56,6 @@
 
 [user]
   useConfigOnly = true
-  name = Catalin Manolescu
-  email = cc.manolescu@gmail.com
     
 [http]
   cookieFile = ~/.gitcookies
