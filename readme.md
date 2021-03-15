@@ -43,12 +43,10 @@ NOTE: in order to copy the selected text to clipboard you need to press the retu
 ## usage
 
 ```bash
-git clone https://github.com/CatalinManolescu/dotfiles.git ~/.dotfiles
+git clone https://github.com/tinslice/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 ./install
 ```
-
-NOTE: please change the git user name and email :)
 
 ## commands
 
